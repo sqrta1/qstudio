@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/qstudio/static/css/main.105bea5d.chunk.css",
+    "main.js": "/qstudio/static/js/main.95cd3a12.chunk.js",
+    "main.js.map": "/qstudio/static/js/main.95cd3a12.chunk.js.map",
+    "runtime-main.js": "/qstudio/static/js/runtime-main.d2cc83d9.js",
+    "runtime-main.js.map": "/qstudio/static/js/runtime-main.d2cc83d9.js.map",
+    "static/js/2.d2c60133.chunk.js": "/qstudio/static/js/2.d2c60133.chunk.js",
+    "static/js/2.d2c60133.chunk.js.map": "/qstudio/static/js/2.d2c60133.chunk.js.map",
+    "static/js/3.8f1c491a.chunk.js": "/qstudio/static/js/3.8f1c491a.chunk.js",
+    "static/js/3.8f1c491a.chunk.js.map": "/qstudio/static/js/3.8f1c491a.chunk.js.map",
+    "index.html": "/qstudio/index.html",
+    "static/css/main.105bea5d.chunk.css.map": "/qstudio/static/css/main.105bea5d.chunk.css.map",
+    "static/js/2.d2c60133.chunk.js.LICENSE.txt": "/qstudio/static/js/2.d2c60133.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2cc83d9.js",
+    "static/js/2.d2c60133.chunk.js",
+    "static/css/main.105bea5d.chunk.css",
+    "static/js/main.95cd3a12.chunk.js"
+  ]
+}
