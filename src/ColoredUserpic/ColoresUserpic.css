@@ -1,0 +1,10 @@
+.main {
+  display: flex;
+  border-radius: 50%;
+}
+
+img {
+  width: auto;
+  height: auto;
+  border-radius: 50%;
+}
